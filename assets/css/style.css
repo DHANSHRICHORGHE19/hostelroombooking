@@ -1,0 +1,12 @@
+.loginForm{
+    margin: auto;
+}
+.registerLink{
+    margin: 10px 0;
+}
+.userProfile {
+    margin-top: -16px;
+}
+.userProfile li{
+    display: inline-block;
+}
